@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 情報工学を学ぶ大学生  
+💻 ソフトウェアエンジニアを目指して勉強中  
+🌱 Java・Python・Web開発を中心に学習しています
+
+## 🛠 Skills
+
+![My Skills](https://skillicons.dev/icons?i=java,python,react,mongodb,git,github)
+
+## 📚 Interests
+
+- Webアプリケーション開発
+- バックエンド開発
+- データベース設計
+- AI・機械学習
+
+## 🚀 Projects
+
+### 出席管理Webアプリ
+React・Node.js・MongoDB を用いた出席管理システムを開発中。
+
+### 個人開発
+インターン選考に向けて実践的なアプリケーション開発に取り組んでいます。
+
+## 📈 Current Goals
+
+- アルゴリズム・データ構造の理解を深める
+- 設計を意識した開発を行う
+- 個人開発を継続してGitHubに公開する
