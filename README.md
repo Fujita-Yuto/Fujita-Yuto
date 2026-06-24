@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,python,react,mongodb,git,github)
+![My Skills](https://skillicons.dev/icons?i=java,python,git,github)
 
 ## 📚 Interests
 
@@ -28,11 +28,6 @@ Here are some ideas to get you started:
 - バックエンド開発
 - データベース設計
 - AI・機械学習
-
-## 🚀 Projects
-
-### 出席管理Webアプリ
-React・Node.js・MongoDB を用いた出席管理システムを開発中。
 
 ### 個人開発
 インターン選考に向けて実践的なアプリケーション開発に取り組んでいます。
